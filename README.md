@@ -20,13 +20,25 @@ Or install it yourself as:
 
     $ gem install bulma-extensions-rails
 
+In your `app/assets/stylesheets/application.css` add:
+
+```css
+*= bulma-extensions
+```
+
+Or in your `app/assets/stylesheets/application.scss` add:
+
+```scss
+@import 'bulma-extensions';
+```
+
 ## Usage
 
 Follow the bulma extensions documentation and demos [here](https://wikiki.github.io/)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/theeomm/bulma-extensions-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
