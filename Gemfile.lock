@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    bulma-extensions-rails (1.0.14)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  bulma-extensions-rails!
+  bundler (~> 1.16)
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.16.1
