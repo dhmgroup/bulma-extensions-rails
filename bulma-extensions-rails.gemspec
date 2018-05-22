@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "bulma-extensions-rails"
-  spec.version       = "1.0.26"
+  spec.version       = "1.0.30"
   spec.authors       = ["Douglas Harrington Muhone"]
   spec.email         = ["theeomm@outlook.com"]
 
