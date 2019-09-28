@@ -32,6 +32,12 @@ Or in your `app/assets/stylesheets/application.scss` add:
 @import 'bulma-extensions';
 ```
 
+Now you need to edit your `app/assets/javascripts/application.js` file and add the following line:
+
+```javascript
+//= require bulma-extensions
+```
+
 ## Usage
 
 Follow the bulma extensions documentation and demos [here](https://wikiki.github.io/)
