@@ -1,4 +1,4 @@
-# Bulma Extensions Rails
+# Bulma Extensions Rails [Nolonger Maintained]
 
 Ruby on rails wrapper for [bulma extensions](https://github.com/Wikiki/bulma-extensions)
 
